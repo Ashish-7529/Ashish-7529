@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=virajchandra51&label=Profile%20views&color=0e75b6&style=flat" alt="virajchandra51" /> </p>
 # 💫 About Me
 
 👨‍💻 I work on **Software Development, Data Engineering, and Deep Learning**, building full-stack applications and end-to-end data solutions.
