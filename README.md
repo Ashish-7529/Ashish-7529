@@ -1,4 +1,11 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashish-7529&label=Profile%20views&color=0e75b6&style=flat" alt="Ashish-7529" /> </p>
+<h1 align="center">Hi 👋, I'm Ashish Anand</h1>
+<h3 align="center">Software Developer | Data Engineer | Deep Learning Enthusiast 🚀</h3>
+
+---
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Ashish-7529&label=Profile%20views&color=0e75b6&style=flat" alt="Ashish-7529" /> 
+</p>
 # 💫 About Me
 
 👨‍💻 I work on **Software Development, Data Engineering, and Deep Learning**, building full-stack applications and end-to-end data solutions.
